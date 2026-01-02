@@ -1,7 +1,6 @@
 ## Hi i'm Salma Farzana (she/her)👋
-- 🔭 I’m a student from Indonesia who has strong ambition and a deep interest in the IT field. I enjoy learning about programming, technology, and how digital systems work. I am motivated to improve my skills, especially in coding and problem-solving, and I am always eager to learn new things related to IT. I believe that technology has a big impact on the future, and I hope to continue developing my abilities and knowledge to achieve my goals in this field.
-- 🌱 I’m currently learning about data analyst.
-- 👯 I’m looking to collaborate on Project-based-python.
+I’m a student from Indonesia who has strong ambition and a deep interest in the IT field. I enjoy learning about programming, technology, and how digital systems work. I am motivated to improve my skills, especially in coding and problem-solving, and I am always eager to learn new things related to IT. I believe that technology has a big impact on the future, and I hope to continue developing my abilities and knowledge to achieve my goals in this field.
+- I’m currently learning about data analyst and I’m looking to collaborate on Project-based-python.
 
 <!--
 **farzana06-droid/farzana06-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
